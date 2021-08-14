@@ -20,11 +20,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_20CAF406:
-        m_Texture: {fileID: 2800000, guid: 13e7d278703f1cb4988a39a61fa5c8a9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0ce8387474fb9fe4fb471dd8a140429f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_3163ABF1:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 832a95b3f67bea74b941f33cce3a7651, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_6BA91097:
@@ -32,31 +32,31 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_C317BDD3:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 13e7d278703f1cb4988a39a61fa5c8a9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_166C34A9: 0.14
-    - Vector1_249357C1: 0
+    - Vector1_166C34A9: 0.08
+    - Vector1_249357C1: 0.044
     - Vector1_2CC6A532: 2
-    - Vector1_3B7A233E: -1.5
-    - Vector1_6F3D4927: 0.12
+    - Vector1_3B7A233E: 12.17
+    - Vector1_6F3D4927: 0.1
     - Vector1_9BA3FBEE: 1.22
-    - Vector1_9E12CF26: 0
-    - Vector1_B93A03DE: 0.001
+    - Vector1_9E12CF26: 0.138
+    - Vector1_B93A03DE: 0.007
     - Vector1_BA803F6: 0.246
-    - Vector1_D80769F7: -0.67
-    - Vector1_ECE38ED2: -0.1
-    - Vector1_FA4E5253: 0.01
-    - Vector1_FE797C36: -0.02
+    - Vector1_D80769F7: -6.1
+    - Vector1_ECE38ED2: 0.05
+    - Vector1_FA4E5253: 0.11
+    - Vector1_FE797C36: -0.66
     m_Colors:
-    - Color_1EB49FED: {r: 0.8679245, g: 0.7247315, b: 0.31114277, a: 0}
+    - Color_1EB49FED: {r: 0.7198429, g: 0.7028302, b: 1, a: 1}
     - Color_424F81E0: {r: 0.9056604, g: 0.883785, b: 0.6237095, a: 0}
     - Color_68FD0CD8: {r: 0.25471696, g: 1, b: 0.9453618, a: 0}
     - Color_83CF459: {r: 0.60272795, g: 0.4481132, b: 1, a: 0}
-    - Color_AB9D6D2F: {r: 0.7251978, g: 0.3915094, b: 1, a: 1}
+    - Color_AB9D6D2F: {r: 0.31052265, g: 0.3047348, b: 0.6037736, a: 1}
     - Color_B54BEABE: {r: 0.764151, g: 0.67764324, b: 0.67764324, a: 0}
     - Color_BE31CDF2: {r: 0.25490198, g: 0.5283097, b: 1, a: 0}
     - Color_D230EFA1: {r: 1, g: 0.68289804, b: 0.19339621, a: 0}
-    - Color_E5129607: {r: 1, g: 1, b: 1, a: 1}
+    - Color_E5129607: {r: 0.9150943, g: 0.5050285, b: 0.5050285, a: 1}
   m_BuildTextureStacks: []
