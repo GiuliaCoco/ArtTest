@@ -1,5 +1,4 @@
 ﻿// Unity built-in shader source. Copyright (c) 2016 Unity Technologies. MIT license (see license.txt)
-// Edited by MinionsArt for hologram effect
  
 Shader "FX/Hologram Effect" {
 	Properties{
@@ -11,7 +10,7 @@ Shader "FX/Hologram Effect" {
 	}
  
 		Category{
-		Tags{ "Queue" = "Transparent" "IgnoreProjector" = "True" "RenderType" = "Transparent" "PreviewType" = "Sphere" }
+		Tags{ "Queue" = "Opaque" "IgnoreProjector" = "True" "RenderType" = "Opaque" "PreviewType" = "Sphere" }
 		Blend SrcAlpha OneMinusSrcAlpha 
 		ColorMask RGB
 		Cull Back 
