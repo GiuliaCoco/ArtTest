@@ -20,13 +20,13 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 0a33360c1c6b85c45bb8a19af0c4e87a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 86ed7ce9e52fd71459c3ce9ac144d310, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _GlitchTime: 0.01
     - _WorldScale: 15
     m_Colors:
-    - _RimColor: {r: 0.6670367, g: 0.36470592, b: 1, a: 1}
-    - _TintColor: {r: 0.9696431, g: 0, b: 1, a: 1}
+    - _RimColor: {r: 0.7955427, g: 0, b: 1, a: 1}
+    - _TintColor: {r: 0.33490568, g: 0.43632284, b: 1, a: 1}
   m_BuildTextureStacks: []
